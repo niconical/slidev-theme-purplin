@@ -188,3 +188,6 @@ Presentation slides for developers
 - Edit the `example.md` and style to see the changes
 - `npm run export` to genreate the preview PDF
 - `npm run screenshot` to genrate the preview PNG
+
+## TODO
+- [ ] add title process bar
